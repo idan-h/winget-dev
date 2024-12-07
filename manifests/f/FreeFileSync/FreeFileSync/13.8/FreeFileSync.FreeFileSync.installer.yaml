@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.9.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.9.0.schema.json
+
+PackageIdentifier: FreeFileSync.FreeFileSync
+PackageVersion: "13.8"
+InstallerType: inno
+Installers:
+- Architecture: x64
+  InstallerUrl: https://freefilesync.org/download/FreeFileSync_13.8_Windows_Setup.exe
+  InstallerSha256: 47F31E4E19A02A361AA8963C06804879A93D997B19F9E8D53321E1ADF7ECF511
+ManifestType: installer
+ManifestVersion: 1.9.0

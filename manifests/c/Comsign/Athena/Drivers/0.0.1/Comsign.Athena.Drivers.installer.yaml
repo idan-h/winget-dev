@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.9.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.9.0.schema.json
+
+PackageIdentifier: Comsign.Athena.Drivers
+PackageVersion: 0.0.1
+InstallerType: inno
+Installers:
+- Architecture: x64
+  InstallerUrl: https://comsign.s3.us-west-2.amazonaws.com/Drivers/ComdaDriversSetup.exe
+  InstallerSha256: E14D86EBE8FC4231575432967E23B3038B416533ADA738D58B61E4AD20CBC0CB
+ManifestType: installer
+ManifestVersion: 1.9.0

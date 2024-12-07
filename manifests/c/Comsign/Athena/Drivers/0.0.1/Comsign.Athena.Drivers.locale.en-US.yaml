@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.9.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.9.0.schema.json
+
+PackageIdentifier: Comsign.Athena.Drivers
+PackageVersion: 0.0.1
+PackageLocale: en-US
+Publisher: Comsign
+PackageName: Comda Authentication Drivers
+License: Thales Software License
+ShortDescription: Comda Authentication Drivers Setup
+ManifestType: defaultLocale
+ManifestVersion: 1.9.0

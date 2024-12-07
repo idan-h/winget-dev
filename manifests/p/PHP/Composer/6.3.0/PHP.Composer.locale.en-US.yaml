@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.9.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.9.0.schema.json
+
+PackageIdentifier: PHP.Composer
+PackageVersion: 6.3.0
+PackageLocale: en-US
+Publisher: getcomposer.org
+PackageName: Composer - PHP Dependency Manager
+License: MIT License
+Copyright: Copyright © 2012-2021 John Stevenson
+ShortDescription: Composer Setup
+ManifestType: defaultLocale
+ManifestVersion: 1.9.0

@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.9.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.9.0.schema.json
+
+PackageIdentifier: WiXToolset.v3
+PackageVersion: 3.14.1.8722
+InstallerType: burn
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/wixtoolset/wix3/releases/download/wix3141rtm/wix314.exe
+  InstallerSha256: 6BF6D03D6923D9EF827AE1D943B90B42B8EBB1B0F68EF6D55F868FA34C738A29
+ManifestType: installer
+ManifestVersion: 1.9.0

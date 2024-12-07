@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.9.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.9.0.schema.json
+
+PackageIdentifier: WiXToolset.v3
+PackageVersion: 3.14.1.8722
+PackageLocale: en-US
+Publisher: WiXToolset
+PackageName: WiX Toolset v3.14.1.8722
+License: Microsoft Reciprocal License
+Copyright: Copyright (c) .NET Foundation. All rights reserved.
+ShortDescription: WiX Toolset v3.14.1.8722
+ManifestType: defaultLocale
+ManifestVersion: 1.9.0
